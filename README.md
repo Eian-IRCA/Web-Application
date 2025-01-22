@@ -1,4 +1,4 @@
-# Object Detection using YOLOv8 and Tensorflow.js
+# Face Spoof and Real Detection using YOLOv11n and Tensorflow.js
 
 Web Application using tensorflow.js
 with `webgl` backend.
